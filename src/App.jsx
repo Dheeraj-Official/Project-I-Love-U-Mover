@@ -25,7 +25,7 @@ function App() {
         style={{ top: `${position.x}px`, left: `${position.y}px` }}
         onMouseEnter={handleHover}
       >
-        <span className="text-lg md:text-xl lg:text-2xl font-cursive">I Love You</span>
+        <span className="text-lg md:text-xl lg:text-2xl font-cursive">Click Me</span>
       </div>
     </div>
   );
